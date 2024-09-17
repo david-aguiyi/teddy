@@ -379,7 +379,7 @@ h6 {
 }
 
 .header._header-scroll {
-    background-color: #c79356;
+    background-color: #754208;
 }
 
 .header__container {
@@ -574,7 +574,7 @@ h6 {
 .page__grey-line {
     position: relative;
     width: 100%;
-    background-color: #c79356;
+    background-color: #754208;
     border-top: 0.375rem solid #000;
     border-bottom: 0.375rem solid #000;
 }
@@ -1240,7 +1240,7 @@ h6 {
 }
 
 .how__header {
-    background-color: #c79356;
+    background-color: #754208;
     border-bottom: 0.375rem solid #000;
 }
 
@@ -1256,7 +1256,7 @@ h6 {
 .how__bottom {
     position: relative;
     height: 13.125rem;
-    background-color: #c79356;
+    background-color: #754208;
     border-top: 0.375rem solid #000;
     border-bottom: 0.375rem solid #000;
     background-image: url(../img/how/bottom-bg.png);
@@ -1383,7 +1383,7 @@ h6 {
 
 .tokenomics {
     position: relative;
-    background-color: #c79356;
+    background-color: #754208;
 }
 
 .tokenomics__title {
@@ -1501,7 +1501,7 @@ h6 {
     left: 0;
     width: 100%;
     height: 1.25rem;
-    background-color: #c79356;
+    background-color: #754208;
 }
 
 .join__container {
@@ -2190,10 +2190,10 @@ h6 {
         transform: rotate(45deg);
     }
     .header {
-        background-color: #c79356;
+        background-color: #754208;
     }
     .header._header-scroll {
-        background-color: #c79356;
+        background-color: #754208;
     }
     .header__actions {
         flex-direction: column-reverse;

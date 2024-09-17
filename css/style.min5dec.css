@@ -1393,6 +1393,7 @@ h6 {
 .tokenomics__body {
     display: flex;
     align-items: center;
+    flex-direction: row-reverse;
 }
 
 .tokenomics__image {
@@ -1403,6 +1404,7 @@ h6 {
 
 .tokenomics__image img {
     max-width: 100%;
+    /* margin-left: 3rem; */
 }
 
 .tokenomics__content {

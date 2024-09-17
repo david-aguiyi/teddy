@@ -2204,7 +2204,7 @@ h6 {
         justify-content: center;
     }
     .footer__right {
-        display: none;
+    display: flex;
     }
     .hero {
         background-color: #ffffff;
